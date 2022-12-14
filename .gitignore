@@ -1,0 +1,6 @@
+/build/
+/nbproject/private/
+/dist/
+
+# Project exclude paths
+/out/
